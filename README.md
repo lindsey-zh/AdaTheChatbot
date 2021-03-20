@@ -6,5 +6,6 @@ Ada is a Reddit-based chatbot that uses machine learning to take a new approach 
 
 
 #### Major credits for referencing code, information, and datasets:
-##### Samuel He, Goodbye_World, https://github.com/hesamuel/goodbye_world
+##### Samuel He (March 14, 2020) Goodbye World (Python) [Source code] https://github.com/hesamuel/goodbye_world
+
 ##### Ammar Alyousfi, Reddit Top 1000 Posts, https://www.kaggle.com/ammar111/reddit-top-1000?select=Showerthoughts.csv
